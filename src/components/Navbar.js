@@ -8,7 +8,7 @@ function Navbar(){
 
   
     return (
-       <nav className="h-[3.75rem] flex items-center justify-between px-7 sticky top-0 bg-black">
+       <nav className="h-[3.75rem] flex items-center justify-between px-7">
             <Navigation />
 
             <Auth />
